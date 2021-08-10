@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7e19cdf6.chunk.css",
+    "main.js": "/static/js/main.c7c5d911.chunk.js",
+    "main.js.map": "/static/js/main.c7c5d911.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.aaa0df0d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.aaa0df0d.js.map",
+    "static/js/2.39caadd7.chunk.js": "/static/js/2.39caadd7.chunk.js",
+    "static/js/2.39caadd7.chunk.js.map": "/static/js/2.39caadd7.chunk.js.map",
+    "static/js/3.a7901c5b.chunk.js": "/static/js/3.a7901c5b.chunk.js",
+    "static/js/3.a7901c5b.chunk.js.map": "/static/js/3.a7901c5b.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.7e19cdf6.chunk.css.map": "/static/css/main.7e19cdf6.chunk.css.map",
+    "static/js/2.39caadd7.chunk.js.LICENSE.txt": "/static/js/2.39caadd7.chunk.js.LICENSE.txt",
+    "static/media/React-keyboard.3d10b855.JPG": "/static/media/React-keyboard.3d10b855.JPG",
+    "static/media/evelyn.1ecb7f0b.jpg": "/static/media/evelyn.1ecb7f0b.jpg",
+    "static/media/fylo.4f448464.JPG": "/static/media/fylo.4f448464.JPG",
+    "static/media/gallerygrids.46a477c4.JPG": "/static/media/gallerygrids.46a477c4.JPG",
+    "static/media/googleclone.930e99f6.JPG": "/static/media/googleclone.930e99f6.JPG",
+    "static/media/shoppinglist.ba9f21cc.JPG": "/static/media/shoppinglist.ba9f21cc.JPG",
+    "static/media/testimonialgrids.a2abedc2.JPG": "/static/media/testimonialgrids.a2abedc2.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aaa0df0d.js",
+    "static/js/2.39caadd7.chunk.js",
+    "static/css/main.7e19cdf6.chunk.css",
+    "static/js/main.c7c5d911.chunk.js"
+  ]
+}
